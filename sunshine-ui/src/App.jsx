@@ -30,7 +30,7 @@ export default function App() {
         
         {/* The Background Image itself */}
         <img 
-          src="/sunshine-daycare-hero.png"
+          src="/sunshine-learning-hero.png"
           className="absolute inset-0 w-full h-full object-cover object-center z-0"
         />
 
