@@ -40,7 +40,7 @@ export default function App() {
         {/* Content Container */}
         <div className="relative z-20 flex flex-col items-center max-w-4xl px-4">
           <h1 className="text-5xl md:text-6xl font-extrabold text-white mb-6 leading-tight drop-shadow-md">
-            Welcome to Sunshine Learning Daycare
+            Sunshine Learning Daycare
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-100 mb-10 leading-relaxed font-medium drop-shadow">
